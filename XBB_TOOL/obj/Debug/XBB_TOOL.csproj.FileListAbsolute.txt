@@ -1,0 +1,6 @@
+c:\users\govanify\documents\visual studio 2013\Projects\XBB_TOOL\XBB_TOOL\bin\Debug\XBB_TOOL.exe.config
+c:\users\govanify\documents\visual studio 2013\Projects\XBB_TOOL\XBB_TOOL\obj\Debug\XBB_TOOL.csprojResolveAssemblyReference.cache
+c:\users\govanify\documents\visual studio 2013\Projects\XBB_TOOL\XBB_TOOL\bin\Debug\XBB_TOOL.exe
+c:\users\govanify\documents\visual studio 2013\Projects\XBB_TOOL\XBB_TOOL\bin\Debug\XBB_TOOL.pdb
+c:\users\govanify\documents\visual studio 2013\Projects\XBB_TOOL\XBB_TOOL\obj\Debug\XBB_TOOL.exe
+c:\users\govanify\documents\visual studio 2013\Projects\XBB_TOOL\XBB_TOOL\obj\Debug\XBB_TOOL.pdb
